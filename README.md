@@ -1,6 +1,6 @@
 # Crontab
 
-Using python for Crontab to deploy on VM
+Crontab with Python deploy on VM
 
 We used GCP to test automation in the python file for cron jobs
 
